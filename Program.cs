@@ -7,7 +7,7 @@ namespace intento2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Antonella Gutierrez");
+            Console.WriteLine("Nico");
         }
     }
 }
