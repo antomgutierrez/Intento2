@@ -8,8 +8,9 @@ namespace intento2
         {
             Console.WriteLine("Hello DIEGO");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Nicolás DellAcqua");
+            Console.WriteLine("Mateo Negrin");
             Console.WriteLine("Antonella");
-            Console.WriteLine("Nicolás DellAcqua");        
         }
     }
 }
